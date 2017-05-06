@@ -1,0 +1,22 @@
+body
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+h1
+{
+	font-size: 32px;
+	color: #2e3689;
+}
+
+h2
+{
+	font-size: 28px;
+}
+
+p
+{
+	font-size: 16px;
+	color: #2e3689;
+	line-height: 22px;
+}
