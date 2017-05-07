@@ -3,10 +3,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Nos produits</title>
-	<link rel="stylesheet" href="../src/css/reset.css">
+	<link rel="stylesheet" href="src/css/reset.css">
 	<link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
-	<link rel="stylesheet" href="../src/css/main.css">
-	<link rel="stylesheet" href="../src/css/products.css">
+	<link rel="stylesheet" href="src/css/main.css">
+	<link rel="stylesheet" href="src/css/products.css">
 </head>
 <body>
 
@@ -35,14 +35,14 @@
 
 	<section class="products-slider">
 		<div class="left-arrow">
-			<img src="../src/img/left-arrow.png" alt="">
+			<img src="src/img/left-arrow.png" alt="">
 		</div>
 		<div class="images"></div>
 		<div class="right-arrow">
-			<img src="../src/img/right-arrow.png" alt="">
+			<img src="src/img/right-arrow.png" alt="">
 		</div>
 	</section>
 	
-	<script src="../src/js/main.js"></script>
+	<script src="src/js/main.js"></script>
 </body>
 </html>
