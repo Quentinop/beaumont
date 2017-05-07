@@ -26,3 +26,13 @@ p
 	color: #2e3689;
 	line-height: 22px;
 }
+
+strong
+{
+	font-weight: bold;!important
+}
+
+.clear
+{
+	clear: both;
+}

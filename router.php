@@ -16,6 +16,9 @@ elseif ($q=="autres") {
 elseif ($q=="desenfumage") {
 	include 'views/smoke-extraction.php';
 }
+elseif ($q=="documents") {
+	include 'views/docs.php';
+}
 else {
 	include 'views/404.php';
 }
