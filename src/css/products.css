@@ -19,7 +19,6 @@ nav
 {
 	float: left;
 	position: relative;
-	background-image: url('../img/other-products.jpg');
 	background-repeat: no-repeat;
 	background-position: 0px -100px;
 	width: 50%;
@@ -63,7 +62,7 @@ nav
 	text-align: center;
 	width: 100px;
 	float: left;
-	line-height: 480px;
+	line-height: 500px;
 }
 
 .left-arrow img
@@ -76,8 +75,8 @@ nav
 {
 	float: left;
 	width: 50%;
-	height: 480px;
-	background-image: url('../img/other-product-1.jpg');
+	height: 500px;
+	background-position: center;
 }
 
 .right-arrow
@@ -85,7 +84,7 @@ nav
 	text-align: center;
 	width: 100px;
 	float: left;
-	line-height: 480px;
+	line-height: 500px;
 }
 
 .right-arrow img
